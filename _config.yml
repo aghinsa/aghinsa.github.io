@@ -1,6 +1,6 @@
-title: Aghin Shah Alin – Independent Product Designer
-logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+title: Aghin Shah Alin 
+logo:   # you can add own logo.
+description: Your average geek working towards getting skynet up. Huge tech enthusiast,exploring deep/reinforcement learning.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aghinsa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,16 +9,16 @@ url: "https://aghinsa.github.io" # the base hostname & protocol for your site, e
 author:
   name: Aghin Shah Alin
   image: '/assets/img/dp.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+  job: "Trying to figure out the simulation"
+  bio: Your average geek working towards getting skynet up. Huge tech enthusiast,exploring deep/reinforcement learning.
   email: forexample@website.com
 
 
 # Contact links
-contacts:
-  - github : aghinsa
-  - email : aghinsa@gmail.com
-  - linkedin : aghinsa
+
+github : aghinsa
+email : aghinsa@gmail.com
+linkedin : aghinsa
 
 
 # Comment Section (Disqus)
