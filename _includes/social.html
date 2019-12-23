@@ -1,0 +1,20 @@
+<div class="social">
+	<h4>
+    {% if site.contacts.github %}
+	  <a href="http://github.com/{{ site.contacts.github }}"><i class="fa fa-github"></i></a>
+    {% endif %}
+    {% if site.contacts.email %}
+	  <a href="mailto:{{ site.contacts.email}}"><i class="fa fa-envelope"></i></a>
+    {% endif %}
+
+    {% if site.contacts.twitter %}
+	  <a href="http://twitter.com/{{ site.contacts.twitter }}"><i class="fa fa-twitter"></i></a>
+    {% endif %}
+    {% if site.contacts.linkedin %}
+	  <a href="http://linkedin.com/in/{{ site.contacts.linkedin }}"><i class="fa fa-linkedin"></i></a>
+    {% endif %}
+    {% if site.contacts.stackoverflow %}
+	  <a href="http://stackoverflow.com/{{ site.contacts.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a>
+    {% endif %}
+	</h4>
+</div>
