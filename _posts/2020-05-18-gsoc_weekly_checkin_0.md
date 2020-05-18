@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Check-in #0"
+title:  "Weekly check in #0"
 date:   2020-05-18 10:00:55 +0530
 tags:   gsoc,2020,gsoc2020,google summer of code
 image: '/assets/img/posts/gsoc20/cover.png'

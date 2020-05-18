@@ -7,7 +7,7 @@ image: '/assets/img/posts/gsoc20/cover.png'
 ---
 
 #### Links to follow ups
-- [Weekly check in #0](/2020/05/18/gsoc20_weekly_checkin_0/)
+- [Weekly check in #0](/2020/05/18/gsoc_weekly_checkin_0/)
 
 Hey all,
 
@@ -20,5 +20,5 @@ I anyways wanted to the feel of open source community. And here he is telling me
 
  [Project proposal](https://summerofcode.withgoogle.com/projects/#5892754623692800)
 
- I'll be working on setting up a *Distribuited Orchestrator* (I'll be using this term a lot, 1. it sounds fancy, 2.can't find anything else which is short and to the point :D). Currently the whole workflow of DFFML runs in a single machine, the crux of the project is to enable the DataFlow to run in multiple nodes. You'll get to know more about the project in the upcoming post.
+ I'll be working on setting up a *Distribuited Orchestrator* (I'll be using this term a lot, 1. it sounds fancy, 2.can't find anything else which is short and to the point :D). Currently the whole workflow of DFFML runs in a single machine, the crux of the project is to enable the DataFlow to run in multiple nodes. You'll get to know more about the project in the upcoming posts.
 
