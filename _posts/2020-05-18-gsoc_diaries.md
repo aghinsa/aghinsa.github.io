@@ -7,7 +7,8 @@ image: '/assets/img/posts/gsoc20/cover.png'
 ---
 
 #### Links to follow ups
-- [Weekly check in #0](/2020/05/18/gsoc_weekly_checkin_0/)
+- [Weekly check in #0](/2020/05/18/gsoc_weekly_checkin_0/)  
+
 Hey all,
 
 I got to know about Google Summer of Code aka GSoC, from a friend of mine who had been selected the previous year.
