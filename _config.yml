@@ -1,6 +1,6 @@
-title: Aghin Shah Alin 
+title: Aghin Shah Alin
 logo:   # you can add own logo.
-description: Your average geek working towards getting skynet up. Huge tech enthusiast,exploring deep/reinforcement learning.   
+description: Your average geek working towards getting skynet up.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aghinsa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,7 +10,7 @@ author:
   name: Aghin Shah Alin
   image: '/assets/img/dp.jpg'
   job: "Trying to figure out the simulation"
-  bio: Your average geek working towards getting skynet up. Huge tech enthusiast,exploring deep/reinforcement learning.
+  bio: Your average geek working towards getting skynet up.
   email: aghinsa@gmail.com
 
 
@@ -61,3 +61,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - notes.md
