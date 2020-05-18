@@ -11,7 +11,7 @@ image: '/assets/img/posts/gsoc20/cover.png'
 
 Hey all,
 
-I got to know about Google Summer of Code aka GSoC, from a front of mine who had been selected the previous year.
+I got to know about Google Summer of Code aka GSoC, from a friend of mine who had been selected the previous year.
 I anyways wanted to the feel of open source community. And here he is telling me that not only can i contribute to awsome projects but also get paid for it, *Hell yeah!!*. I started searching around previous GSoC projects to find something along my intrests and expertise, thats when i stumbled upon [DataFlow Facilitator For Machine Learning (DFFML)](https://github.com/intel/dffml/), which takes part in GSoC as a sub org under [Python Software Foundation](https://python-gsoc.org/). DFFML makes it easy to generate datasets, train, use, deploy machine learning models, and integrate machine learning into new or existing applications. It's plugin based so you can define and add features,or easily adapt existing ones to your needs. Do check it out!
 
  At the time (which was almost an year ago)i was starting to dive more into Deep/Machine/Reinforcement learning and DFFML felt perfect. It was going to be [my first open source interaction](https://github.com/intel/dffml/issues/29#issuecomment-539133619) and i was kinda nervous on how to start. Luckily the community has been very kind, especially John whos the maintainer of the repo. I've been part of the community since and worked on different parts of the code base, currently i'm mostly focused on the *DataFlow* side of things.
